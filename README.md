@@ -1,5 +1,5 @@
 # scan
-Script configuration with three nmao scans
+Script configuration with three nmap scans
 - nmap discovery open ports
 - nmap open ports version and default scripts
 - nmap open ports script vuln
