@@ -1,5 +1,5 @@
 # Description
-Automation script with three nmap scans
+Automation script with three nmap scans in one command
 - nmap discovery open ports
 - nmap open ports version and default scripts
 - nmap open ports script vuln
