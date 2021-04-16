@@ -5,7 +5,8 @@ Script automation with three nmap scans
 - nmap open ports script vuln
 
 # Instructions
-1. Donwload script
+1. Donwload script:
+   wget https://raw.githubusercontent.com/j0rh3rp4/scanNmap/main/scan
 2. chmod +x scan
 3. mv scan /usr/bin/
 
